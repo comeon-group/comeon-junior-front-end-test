@@ -11,3 +11,7 @@ Feel free to use a CSS pre-processor if you wish. Impress us a little extra by u
 # Assignment Criteria
 
 We want to see how you approach and solve this task, we will look at code style and quality. Do take your time to do it right, rather than fast.
+
+# How to Submit the Home Assignment
+
+Please send us your code in a compressed file in an email.
