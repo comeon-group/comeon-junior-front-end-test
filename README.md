@@ -4,7 +4,7 @@ Applicant's test for junior front-end developers
 # Your Assignment
 The image above is a part of our current Casino lobby at ComeOn!
 
-Your assignment is to re-create it with HTML and CSS. Don't forget that responsive is the new default so we expect your work to look good on both small and large screens.
+Your assignment is to re-create it with HTML and CSS. Your version does not have to be an exact copy of our screenshot. But what we do want to see is semantic code that works in modern browsers. Don't forget that responsive is the new default so we expect your work to look good on our phones as well as on our laptops.
 
 Feel free to use a CSS pre-processor if you wish. Impress us a little extra by using a scalable CSS methodology like  BEM or SMACSS. 
 
