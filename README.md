@@ -1,4 +1,4 @@
-![comeon-junior-front-end-test](http://b5fa2dae67bf7ee0b0e5-e0d56d540e31d5f2f9430984d20d712d.r41.cf3.rackcdn.com/casino-all-games-screen.jpg)
+![comeon-junior-front-end-test](http://b5fa2dae67bf7ee0b0e5-e0d56d540e31d5f2f9430984d20d712d.r41.cf3.rackcdn.com/unnamed.gif)
 
 # comeon-junior-front-end-test
 Applicant's test for junior front-end developers
