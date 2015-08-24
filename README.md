@@ -8,6 +8,8 @@ Above is a wireframe sketch of a game lobby. At the very top we see three tabs w
 
 Your assignment is to re-create this sketchy wireframe with HTML, CSS and JavaScript. Your version should work well in a modern smart phone. The tabs should be clickable and filter the games below. All games should be clickable and open up an info pane just like the sketch shows. You should also be able to close this info pane by clicking on the X symbol in the top right corner of the pane. Feel free to use HTML, Haml, Jade, Sass, Less, CoffeScript, jQuery or whatever you feel comfortable with. 
 
+We have provided a couple of game icons in the resources folder that you can use.
+
 # Hint, a couple of ways to impress us extra
 * Add a nice animation when the info pane opens/closes 
 * Use a scalable CSS methodology like  BEM, SUIT or SMACSS
