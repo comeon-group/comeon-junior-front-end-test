@@ -13,7 +13,7 @@ We have provided a couple of game icons in the resources folder that you can use
 # Hint, a couple of ways to impress us extra
 * Add a nice animation when the info pane opens/closes 
 * Use a scalable CSS methodology like  BEM, SUIT or SMACSS
-* Make it look nice an a large screen also
+* Make it look nice on a large screen also
 * Make it a plain vanilla JS solution
 
 # Assignment Criteria
