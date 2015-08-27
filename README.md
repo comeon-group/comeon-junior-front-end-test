@@ -6,14 +6,14 @@ Applicant's test for junior front-end developers
 # Your Assignment
 Above is a wireframe sketch of a game lobby. At the very top we see three tabs which can be used to filter the games below. Should the user tap on any game we want to show an info pane that contains more detailed information about this particular game and also two buttons (Login and Sign-Up).
 
-Your assignment is to re-create this sketchy wireframe with HTML, CSS and JavaScript. Your version should work well in a modern smart phone. The tabs should be clickable and filter the games below. All games should be clickable and open up an info pane just like the sketch shows. You should also be able to close this info pane by clicking on the X symbol in the top right corner of the pane. Feel free to use HTML, Haml, Jade, Sass, Less, CoffeScript, jQuery or whatever you feel comfortable with. 
+Your assignment is to re-create this sketchy wireframe with HTML, CSS and JavaScript. Your version should work well in a modern smart phone. The tabs should be clickable and filter the games below. All games should be clickable and open up an info pane just like the sketch shows. You should also be able to close this info pane by clicking on the X symbol in the top right corner of the pane. Feel free to use any and all resources deemed necessary. 
 
 We have provided a couple of game icons in the resources folder that you can use.
 
-# Hint, a couple of ways to impress us extra
-* Add a nice animation when the info pane opens/closes 
+# Hint, a couple of ways to impress us extra much
+* Add a nice looking animation when the info pane opens/closes 
 * Use a scalable CSS methodology like  BEM, SUIT or SMACSS
-* Make it look nice on a large screen also
+* Make this view look nice on a large screen also
 * Make it a plain vanilla JS solution
 
 # Assignment Criteria
